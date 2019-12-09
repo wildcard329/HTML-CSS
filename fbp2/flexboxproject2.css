@@ -1,0 +1,75 @@
+.box{
+    width:100px;
+    height:100px;
+}
+.box1{
+    background-color:green;
+}
+.box2{
+    background-color:blue;
+}
+.box3{
+    background-color:yellow;
+}
+.box4 {
+    background-color:red;
+}
+.box5 {
+    background-color: maroon;
+}
+.box6 {
+    background-color: purple;
+}
+.box7 {
+    background-color: lime;
+}
+.box8 {
+    background-color: darkblue;
+}
+
+.challenge1 {
+    display: flex;
+}
+
+
+
+.challenge2 {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.challenge3 {
+    display:flex;
+}
+
+.challenge4 {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.challenge5 {
+    display: flex;
+}
+
+.challenge6 {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.challenge7 {
+    display: flex;
+}
+
+.challenge8 {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.bigbox {
+    display: flex;
+}
+
+.biggerbox {
+    display: flex;
+    justify-content: space-between;
+}
